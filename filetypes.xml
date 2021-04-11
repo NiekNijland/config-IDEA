@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="composer.lock" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="phpunit.xml.dist" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <mapping pattern="CouponcodeImportRepositoryInterface.php" type="AUTO_DETECTED" />
