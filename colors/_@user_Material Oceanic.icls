@@ -4,7 +4,7 @@
     <property name="created">2021-04-11T19:38:01</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.4.0.0</property>
-    <property name="modified">2021-07-02T09:13:28</property>
+    <property name="modified">2021-07-02T10:23:50</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -44,6 +44,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
@@ -253,7 +255,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="ff5370" />
