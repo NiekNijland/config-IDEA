@@ -10,6 +10,14 @@
           <option name="url" value="http://git.devrepublic.nl" />
           <option name="userName" value="NiekNijland" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/normec-carenet/carenet-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="tushar@devrepublic.nl" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
