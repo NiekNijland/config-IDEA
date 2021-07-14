@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_scrolling.xml" value="0.2662107396149949" />
+        <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.2662107396149949" />
+      </map>
+    </option>
+  </component>
+</application>
