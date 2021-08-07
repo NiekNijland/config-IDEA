@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="CouponcodeImportRepositoryInterface.php" type="AUTO_DETECTED" />
       <mapping pattern="TaxTrait.php" type="AUTO_DETECTED" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
