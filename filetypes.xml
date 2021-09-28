@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="CouponcodeImportRepositoryInterface.php" type="AUTO_DETECTED" />
+      <mapping pattern="ci" type="AUTO_DETECTED" />
+      <mapping pattern="ci-dusk" type="AUTO_DETECTED" />
       <mapping pattern="TaxTrait.php" type="AUTO_DETECTED" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
