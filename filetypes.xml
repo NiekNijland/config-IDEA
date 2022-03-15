@@ -7,6 +7,7 @@
       <mapping pattern="TaxTrait.php" type="AUTO_DETECTED" />
       <mapping pattern=".valetphprc" type="PLAIN_TEXT" />
       <mapping pattern=".ebextensions/01-environment.config" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
