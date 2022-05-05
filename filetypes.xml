@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="CouponcodeImportRepositoryInterface.php" type="AUTO_DETECTED" />
       <mapping pattern="ci" type="AUTO_DETECTED" />
+      <mapping pattern=".php_cs" type="AUTO_DETECTED" />
       <mapping pattern="ci-dusk" type="AUTO_DETECTED" />
       <mapping pattern="TaxTrait.php" type="AUTO_DETECTED" />
       <mapping pattern=".valetphprc" type="PLAIN_TEXT" />
