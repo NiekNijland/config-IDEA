@@ -2,7 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="00c6e0" />
+    <option name="selectedTheme" value="SKYBLUE" />
     <option name="userId" value="-1630ca50:178c2026161:-8000" />
     <option name="version" value="7.5.2.2" />
   </component>
