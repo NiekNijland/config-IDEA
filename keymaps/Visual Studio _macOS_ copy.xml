@@ -1,0 +1,7 @@
+<keymap version="1" name="Visual Studio (macOS) copy" parent="Visual Studio OSX">
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="meta button1" />
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+</keymap>
