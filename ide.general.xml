@@ -11,5 +11,6 @@
     <entry key="clang.parameter.info" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
