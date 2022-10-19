@@ -3,6 +3,7 @@
     <words>
       <w>fillable</w>
       <w>livewire</w>
+      <w>swal</w>
     </words>
   </component>
 </application>
