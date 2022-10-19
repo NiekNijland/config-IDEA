@@ -10,5 +10,8 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="clang.parameter.info" value="true" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="87a7ab" />
+    <entry key="editor.focus.mode.color.dark" value="87a7ab" />
   </component>
 </application>
