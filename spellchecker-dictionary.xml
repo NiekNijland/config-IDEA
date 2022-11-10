@@ -11,6 +11,7 @@
       <w>phpstan</w>
       <w>shivammathur</w>
       <w>swal</w>
+      <w>unpkg</w>
       <w>vendored</w>
       <w>wwwroot</w>
     </words>
